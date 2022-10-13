@@ -5,7 +5,7 @@
 -    I would like to be a part of a growth-oriented team, working towards solving real world problem using skills that include machine learning, 
 -    real time analysis and data science. 
 - 💞️ I’m looking to collaborate on web, mobile app and software development, spatial data science, spatial data anlysis and  spatial data 
--     visualization and machine learning projects.
+visualization and machine learning projects.
 - 📫 you can reach me through my email kevinkiprotich0089@gmail.com, 
 -     phone number: +254746620591
 -     Facebook: https://www.facebook.com/profile.php?id=100070851503615
