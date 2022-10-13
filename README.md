@@ -8,5 +8,5 @@ visualization and machine learning projects.
 -     phone number: +254746620591
 -     Facebook: https://www.facebook.com/profile.php?id=100070851503615
 -     LinkedIn: https://www.linkedin.com/in/kevin-kiprotich-8a972a20a
--     instagram @kevinkiprotich001
+-     instagram @codewithkev
  
