@@ -31,5 +31,5 @@ Hey there! I'm __Kevin Kiprotich__, a passionate programmer, GIS, Remote Sensing
 ## Get in Touch
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-kiprotich-8a972a20a) to collaborate or discuss exciting opportunities!
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Kiprotich&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kiprotich&hide=go)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kiprotich&hide=go&count_private=true)
 
